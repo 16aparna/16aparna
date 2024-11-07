@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aparna
 - 👀 I’m interested in devops,web development
-- 🌱 I’m currently learning html,css
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on front-end learning, devops learning.
 - 📫 How to reach me- Email id- pujaraparna@gmail.com
 
